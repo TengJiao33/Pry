@@ -1,0 +1,11 @@
+pywinauto
+comtypes
+pywin32
+openai
+pytest
+uiautomation
+rapidocr_onnxruntime
+python-dotenv
+pystray
+Pillow
+winshell
